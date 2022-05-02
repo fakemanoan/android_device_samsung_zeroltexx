@@ -95,6 +95,10 @@ lib/egl/libGLES_android.so
 lib64/egl/libGLES_android.so
 vendor/lib/egl/libGLES_mali.so
 vendor/lib64/egl/libGLES_mali.so
+lib/hw/gralloc.exynos5.so
+lib/hw/hwcomposer.exynos5.so
+lib64/hw/gralloc.exynos5.so
+lib64/hw/hwcomposer.exynos5.so
 
 # IR
 lib/hw/consumerir.exynos5.so
