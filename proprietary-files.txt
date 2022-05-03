@@ -99,8 +99,8 @@ lib/hw/gralloc.exynos5.so
 lib/hw/hwcomposer.exynos5.so
 lib64/hw/gralloc.exynos5.so
 lib64/hw/hwcomposer.exynos5.so
-lib/hw/libhwcutils.so
-lib64/hw/libhwcutils.so
+lib/libhwcutils.so
+lib6/libhwcutils.so
 
 lib/hw/libaptX_encoder.so
 lib64/hw/libaptX_encoder.so
