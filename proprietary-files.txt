@@ -117,6 +117,7 @@ vendor/firmware/nfc/sec_s3fwrn5p_firmware.bin
 lib/libExynosOMX_Core.so
 lib/libExynosOMX_Resourcemanager.so
 lib/libstagefrighthw.so
+lib/libstagefright_hdcp.so
 lib/omx/libOMX.Exynos.AVC.Decoder.so
 lib/omx/libOMX.Exynos.AVC.Encoder.so
 lib/omx/libOMX.Exynos.HEVC.Decoder.so
@@ -148,6 +149,10 @@ lib/libsec-ril.so:vendor/lib/libsec-ril.so
 lib64/libsec-ril.so:vendor/lib64/libsec-ril.so
 lib/libprotobuf-cpp-full.so:lib/libprotobuf-cpp-fl24.so
 lib64/libprotobuf-cpp-full.so:lib64/libprotobuf-cpp-fl24.so
+
+lib/libprotobuf-cpp-nice.so
+lib/libprotobuf-cpp-shim.so
+lib64/libprotobuf-cpp-shim.so
 
 # Sensors
 bin/gps.cer
