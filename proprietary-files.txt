@@ -203,9 +203,9 @@ lib/libexynosdisplay.so
 lib/libexynosgscaler.so
 lib/libexynosscaler.so
 lib/libexynosutils.so
-lib/libexynosv4l2.so
+#lib/libexynosv4l2.so
 lib64/libexynosdisplay.so
 lib64/libexynosgscaler.so
 lib64/libexynosscaler.so
 lib64/libexynosutils.so
-lib64/libexynosv4l2.so
+#lib64/libexynosv4l2.so
