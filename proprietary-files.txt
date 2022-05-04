@@ -197,3 +197,15 @@ etc/wifi/nvram_net.txt_wisol:vendor/etc/wifi/nvram_net.txt_wisol
 etc/wifi/nvram_net.txt_wisol_a1:vendor/etc/wifi/nvram_net.txt_wisol_a1
 etc/wifi/nvram_net.txt_wisol_b85_a1:vendor/etc/wifi/nvram_net.txt_wisol_b85_a1
 etc/wifi/wpa_supplicant.conf:vendor/etc/wifi/wpa_supplicant.conf
+
+
+lib/libexynosdisplay.so
+lib/libexynosgscaler.so
+lib/libexynosscaler.so
+lib/libexynosutils.so
+lib/libexynosv4l2.so
+lib64/libexynosdisplay.so
+lib64/libexynosgscaler.so
+lib64/libexynosscaler.so
+lib64/libexynosutils.so
+lib64/libexynosv4l2.so
