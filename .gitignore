@@ -1,3 +1,4 @@
 
 BoardConfig.mk.bak
 proprietary-files.txt.bak
+*.bak
